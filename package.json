@@ -6,16 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hes03/web-server.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/hes03/web-server/issues"
-  },
-  "homepage": "https://github.com/hes03/web-server#readme"
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
